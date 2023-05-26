@@ -1,6 +1,6 @@
 # Accept Cookie's <img src="https://cdn3.emoji.gg/emojis/8312-cookie-coin.gif" width="27px"> 
 
-**💻I'm [Izadyar](https://github.com/izadyarjalalipour)👨‍💻 I’m interested in programer👀**
+**💻I'm [Izadyar](https://github.com/izadyarjalalipour)👨‍💻 I’m interested in programming👀**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:jalalipourizadyar@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/izadyarjalalipour/)](https://space.bilibili.com/7708412)
@@ -11,9 +11,9 @@
 
 ## 🧐 About
 
-- 🌐💻 My website: https://izadyarjalalipour.com
+- 🌐 My website: https://izadyarjalalipour.com
 - 📧 Send me email: jalalipourizadyar@gmail.com
-- 💻The languages I know:
+- 💻 The languages I know:
 
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
