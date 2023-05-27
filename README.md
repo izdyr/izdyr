@@ -7,7 +7,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/izadyarjalalipour)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=izadyarjalalipour)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=izadyarjalalipour&show_icons=true&hide_border=true">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izadyarjalalipour&show_icons=true&theme=radical)
 
 ## 🧐 About
 
