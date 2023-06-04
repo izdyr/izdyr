@@ -1,6 +1,5 @@
 # Accept Cookie's <img src="https://cdn3.emoji.gg/emojis/8312-cookie-coin.gif" width="27px"> 
 
-**💻I'm [Izadyar](https://github.com/izadyarjalalipour)👨‍💻 I’m interested in programming👀**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:jalalipourizadyar@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/izadyarjalalipour/)](https://space.bilibili.com/7708412)
