@@ -6,7 +6,8 @@
 <p align="left">
 <a href="https://twitter.com/izadyar_jp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izadyar_jp" height="30" width="40" /></a>
 <a href="https://instagram.com/izadyarjalalipour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izadyarjalalipour" height="30" width="40" /></a>
-<a href="https://discord.gg/7839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7839" height="30" width="40" /></a>
+<a href="https://discord.gg/
+  #7839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7839" height="30" width="40" /></a>
 <a href="https://t.me/izadyar_jp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="izadyar_jp" height="30" width="30" /></a>
 </p>
 
