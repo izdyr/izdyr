@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-```html
+``` html
 <!DOCTYPE About Me>
 <h1>👩‍💻 Front-end Developer</h1>
 <h1>🕵️‍♂️ Occasional Back-end Explorer</h1>
@@ -32,6 +32,9 @@
 ## 📊 Status:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izadyarjalalipour&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izadyarjalalipour&show_icons=true&hide_border=true&theme=vue-dark)
+
+<p align="center"><img align="center" width="125px" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" /></p>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a852&height=180&section=footer"/>
 </a>
