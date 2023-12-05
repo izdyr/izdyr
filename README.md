@@ -7,7 +7,10 @@
   </a>
 </h1>
 
-``` html
+
+
+## <img width=35px src="https://em-content.zobj.net/source/apple/354/boy_light-skin-tone_1f466-1f3fb_1f3fb.png"/> About Me:
+``` html 
 <!DOCTYPE About Me>
 <h1>👩‍💻 Front-end Developer</h1>
 <h1>🕵️‍♂️ Occasional Back-end Explorer</h1>
@@ -15,8 +18,21 @@
 <h1>👦🏻 13-year-old Coding Prodigy</h1>
 <h1>💻 Turning Ideas into Code on my Website</h1>
 <h1>🚀 Embracing Every Opportunity to Learn and Grow</h1>
-
 ```
+``` python
+import time
+
+def life_routine(repetitions=3):
+    activities = ["Eat", "Sleep", "Coffee", "Code"]
+
+    for _ in range(repetitions):
+        for activity in activities:
+            print(activity)
+            time.sleep(1)
+if __name__ == "__main__":
+    life_routine()
+```
+
 ## <img width=35px src="https://em-content.zobj.net/source/apple/354/mobile-phone_1f4f1.png"/> Social Medias & contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izadyarjalalipour@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/izadyar_jp) 
