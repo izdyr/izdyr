@@ -24,7 +24,7 @@ import time
 
 def life_routine(repetitions=3):
     activities = ["Eat", "Sleep", "Coffee", "Code"]
-
+#loghme pichandane dor sar
     for _ in range(repetitions):
         for activity in activities:
             print(activity)
