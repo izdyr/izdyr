@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 
 ## <img width=30px src="https://em-content.zobj.net/source/apple/354/bar-chart_1f4ca.png"/> Status:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izadyarjalalipour&theme=vue-dark&hide_border=true)]
+
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izadyarjalalipour&show_icons=true&hide_border=true&theme=vue-dark)
 <p align=center>
   <img width=150px src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/>
