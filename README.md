@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 
 
-## <img width=35px src="https://em-content.zobj.net/source/apple/354/man-technologist_1f468-200d-1f4bb.png"/> Programming Languages :
+## <img width=35px src="https://em-content.zobj.net/source/apple/354/man-technologist_1f468-200d-1f4bb.png"/> Programming Languages & Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,swift,c,cpp,cs,php,bootstrap,react,sass,flask,vscode,github&theme=dark&perline=12)
 
