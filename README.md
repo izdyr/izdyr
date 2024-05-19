@@ -34,10 +34,10 @@ if __name__ == "__main__":
 ```
 
 ## <img width=35px src="https://em-content.zobj.net/source/apple/354/mobile-phone_1f4f1.png"/> Social Medias & contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izadyarjalalipour@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izdyr@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/izadyar_jp) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadyar-jalalipour/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/izadyarjalalipour/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/izdyr/) 
 
 
 
@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
 ## <img width=30px src="https://em-content.zobj.net/source/apple/354/bar-chart_1f4ca.png"/> Status:
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izadyarjalalipour&show_icons=true&hide_border=true&theme=vue-dark)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=izdyr&show_icons=true&hide_border=true&theme=vue-dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aydinhamedi&theme=vue-dark&hide_border=true&show_icons=true"/>
 <p align=center>
   <img width=150px src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"/>
