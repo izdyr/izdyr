@@ -34,7 +34,7 @@ if __name__ == "__main__":
 ```
 
 ## <img width=35px src="https://em-content.zobj.net/source/apple/354/mobile-phone_1f4f1.png"/> Social Medias & contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izdyr@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izadyarjalalipour@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/izadyar_jp) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadyar-jalalipour/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/izadyarjalalipour/) 
